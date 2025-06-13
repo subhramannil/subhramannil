@@ -1,6 +1,6 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Data+Science+%7C+Machine+Learning+%7C+AI+Engineering;Turning+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Deep+Learning" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Data+Science+%7C+Machine+Learning+%7C+AI+Engineering;Turning+Data+into+Actionable+Insights;Python+%7C+TensorFlow+%7C+Deep+Learning" alt="Animated Header" />
 </div>
 
 <!-- Stats Grid -->
@@ -16,34 +16,56 @@
 
 ---
 
+## 🔥 Recent Projects
+### 🤖 Emotion Recognition & Music Suggestion via CNN
+[![Open in GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subhramannil/Emotion-Recognition-and-Music-Suggestion-via-Convolutional-Neural-Network)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MIT License](https://img.shields.io/badge/License-MIT-brightgreen?style=flat-square)
+
+> Facial emotion recognition system that suggests mood-appropriate music using CNN architecture. Processes real-time video input to classify emotions into 7 categories.
+
+**Tech Stack**: Python • OpenCV • Keras • Librosa • Flask
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhramannil&repo=Emotion-Recognition-and-Music-Suggestion-via-Convolutional-Neural-Network&theme=merko&show_owner=true" alt="Project Stats">
+</div>
+
+### 🎬 Sentiment Analysis of 50K Movie Reviews
+[![Open in GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subhramannil/Sentiment-Analysis-of-50K-Movie-Reviews)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=flat-square&logo=keras&logoColor=white)
+
+> NLP model analyzing IMDB movie reviews with 85%+ accuracy using LSTM networks. Includes text preprocessing pipeline and interactive prediction interface.
+
+**Tech Stack**: Python • TensorFlow • NLTK • Pandas • Seaborn
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhramannil&repo=Sentiment-Analysis-of-50K-Movie-Reviews&theme=merko&show_owner=true" alt="Project Stats">
+</div>
+
+---
+
 # 💻 Tech Stack
 ### 🐍 Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 📊 Data Science Ecosystem
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 ### 🤖 ML/DL Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### 📊 Data Science Ecosystem
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 📈 Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0C7BDC?style=for-the-badge)
-
-### 🛠️ Deployment & Tools
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -61,15 +83,6 @@
   <!-- Activity Graph -->
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subhramannil&theme=merko&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
-
----
-
-# 🔥 Recent Projects
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [Sales Forecasting](/) | Time-series forecasting for retail sales | Prophet, ARIMA, Plotly |
-| [Customer Segmentation](/) | Unsupervised clustering of e-commerce users | K-Means, PCA, Seaborn |
-| [Sentiment Analysis](/) | NLP model for product reviews | BERT, NLTK, Flask |
 
 ---
 
