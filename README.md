@@ -1,6 +1,6 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Data+Science+%7C+Machine+Learning+%7C+AI+Engineering;Turning+Data+into+Actionable+Insights;Python+%7C+TensorFlow+%7C+Deep+Learning" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Data+Science+%7C+Machine+Learning+%7C+AI+Engineering;Turning+Data+into+Actionable+Insights;Python+%7C+TensorFlow+%7C+Keras%7C+Deep+Learning" alt="Animated Header" />
 </div>
 
 <!-- Stats Grid -->
