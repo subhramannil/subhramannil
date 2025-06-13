@@ -77,9 +77,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=subhramannil&theme=merko"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhramannil&layout=compact&langs_count=8&theme=merko&hide_border=true&card_width=320"/>
   
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/subhramannil/subhramannil/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  
   <!-- Activity Graph -->
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subhramannil&theme=merko&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
