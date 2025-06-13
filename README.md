@@ -16,36 +16,23 @@
 
 ---
 
-## 🔥 Recent Projects
-### 🤖 Emotion Recognition & Music Suggestion via CNN
-[![Open in GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subhramannil/Emotion-Recognition-and-Music-Suggestion-via-Convolutional-Neural-Network)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![MIT License](https://img.shields.io/badge/License-MIT-brightgreen?style=flat-square)
+## 🔥 Featured Projects
 
-> Facial emotion recognition system that suggests mood-appropriate music using CNN architecture. Processes real-time video input to classify emotions into 7 categories.
+### Emotion Recognition & Music Suggestion via CNN
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat&logo=github&logoColor=white)](https://github.com/subhramannil/Emotion-Recognition-and-Music-Suggestion-via-Convolutional-Neural-Network)
+- Facial emotion recognition system using CNN architecture
+- Classifies emotions into 7 categories from real-time video
+- Suggests mood-appropriate music based on emotion detected
+- **Tech**: Python, OpenCV, TensorFlow, Librosa
 
-**Tech Stack**: Python • OpenCV • Keras • Librosa • Flask
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhramannil&repo=Emotion-Recognition-and-Music-Suggestion-via-Convolutional-Neural-Network&theme=merko&show_owner=true" alt="Project Stats">
-</div>
-
-### 🎬 Sentiment Analysis of 50K Movie Reviews
-[![Open in GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subhramannil/Sentiment-Analysis-of-50K-Movie-Reviews)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=flat-square&logo=keras&logoColor=white)
-
-> NLP model analyzing IMDB movie reviews with 85%+ accuracy using LSTM networks. Includes text preprocessing pipeline and interactive prediction interface.
-
-**Tech Stack**: Python • TensorFlow • NLTK • Pandas • Seaborn
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhramannil&repo=Sentiment-Analysis-of-50K-Movie-Reviews&theme=merko&show_owner=true" alt="Project Stats">
-</div>
+### Sentiment Analysis of 50K Movie Reviews
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-100000?style=flat&logo=github&logoColor=white)](https://github.com/subhramannil/Sentiment-Analysis-of-50K-Movie-Reviews)
+- NLP model analyzing IMDB movie reviews with LSTM networks
+- Achieves 85%+ accuracy in sentiment classification
+- Includes text preprocessing pipeline and prediction interface
+- **Tech**: Python, TensorFlow, NLTK, Pandas
 
 ---
-
 # 💻 Tech Stack
 ### 🐍 Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
